@@ -88,7 +88,7 @@ Follow these steps to get the AI Tech Stack Advisor running on your local machin
 2.  **Navigate to the project's root directory** in your terminal.
 3.  **Run the Streamlit application:**
     ```bash
-    streamlit run app.py
+    streamlit run App.py
     ```
 4.  Streamlit will start the application and provide a local URL (usually `http://localhost:8501`) which should automatically open in your default web browser.
 
