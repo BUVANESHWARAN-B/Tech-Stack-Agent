@@ -59,8 +59,8 @@ Follow these steps to get the AI Tech Stack Advisor running on your local machin
 
 2.  **Clone the Repository (if applicable):**
     ```bash
-    git clone 
-    cd 
+    git clone https://github.com/BUVANESHWARAN-B/Tech-Stack-Agent.git
+    cd Tech-Stack-Agent
     ```
     If you just have the files, ensure they are in a directory as described in "File Structure".
 
